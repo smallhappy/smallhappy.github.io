@@ -1,0 +1,17 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "婚禮拍攝"
+# content: |
+#   This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+content: |
+  全數色彩調整的婚禮相片<br> 
+  4-12小時拍攝<br>  
+  USB Elegant Box<br> 
+  婚禮故事MV<br> 
+  藝術相冊<br> 
+  更多客製化選項<br> 
+button: 
+  label: "聯絡我們"
+  link: "#"
+image: "images/spotlight01.jpg"
